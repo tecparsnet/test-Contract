@@ -1,2 +1,2 @@
 # test-Contract
-atetsdhs
+این قرارداد خیلی بی اعتباره
